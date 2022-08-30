@@ -15,6 +15,9 @@ This is a long web page made by using HTML and CSS only.
 
 ![mobile view](mobile%20view.png)
 
+## Link Link
+
+[Developer Landing Page](https://developer-landing-page-souritaray.netlify.app/)
 
 ## What have I learnt in this project?
 
