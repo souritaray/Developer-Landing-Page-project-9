@@ -9,9 +9,11 @@ This is a long web page made by using HTML and CSS only.
 ### Name: SOURITA RAY
 ***
 ## Demo
+![output](my%20output.png)
 
-![output img](output%20project%209.png)
+## Mobile Layout
 
+![mobile view](mobile%20view.png)
 
 
 ## What have I learnt in this project?
@@ -21,10 +23,11 @@ In this project I have learned about :
 - Flexbox 
 - In depth knowledge about block level and inline elements.
 - In depth knowledge in CSS selectors and pseudo selectors in CSS
+- Media queries
 
 ## Time required to complete the project
 
-Approximately 8 hours or more.
+Approximately 12 hours or more.
 
 
 
